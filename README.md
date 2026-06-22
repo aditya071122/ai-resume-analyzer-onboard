@@ -78,7 +78,7 @@ Playwright/
 
 ```bash
 git clone <repository-url>
-cd AI-Resume-Analyzer-Automation
+cd ai-resume-analyzer-onboard
 ```
 
 ### Create Virtual Environment
@@ -148,7 +148,7 @@ Place the resume file in the project root directory.
 Run directly:
 
 ```bash
-python test_resume_analyzer.py
+python main.py
 ```
 
 
