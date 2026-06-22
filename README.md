@@ -28,7 +28,7 @@ The automation covers:
 ```
 Playwright/
 │
-├── test_resume_analyzer.py
+├── main.py
 ├── RESUME.pdf
 ├── requirements.txt
 └── README.md
