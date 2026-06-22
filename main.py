@@ -29,7 +29,7 @@ with sync_playwright() as p:
     # Upload Resume
     page.set_input_files(
     "#file-input",
-    "ADITYARESUME.pdf"
+    "RESUME.pdf"
     )
 
     # Enter JD
